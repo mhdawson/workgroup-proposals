@@ -19,5 +19,6 @@ Initial proposed members include:
   + Michael Dawson
   + Trevor Norris
   + Yang Lei
+  + Ali Sheikh
   + + reach out to contacts at Payal, Yahoo, Netflix who might be interested
   + + other interested parties from Node.js and io.js communities
