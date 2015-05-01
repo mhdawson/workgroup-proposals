@@ -11,6 +11,7 @@ Initial proposed members include:
   + David Pacheco (still need to confirm he'd like to be involved) 
   + Julien Gilli
   + Michael Dawson
+  + Chris Bailey
   + any others interested from io.js and Node.js communities
 
 If the tracing working group from io.js joins the foundation, we'd need to consider if this group should remain separate or be part of a merged working group.  
