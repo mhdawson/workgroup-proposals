@@ -8,7 +8,7 @@ The Post Mortem Diagnostics working group is dedicated to support and improvemen
 Initial proposed members include:
 
   + Howard Hellyer
-  + David Pacheco (still need to confirm he'd like to be involved) 
+  + David Pacheco 
   + Julien Gilli
   + Michael Dawson
   + any others interested from io.js and Node.js communities
