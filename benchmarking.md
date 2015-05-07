@@ -21,5 +21,6 @@ Initial proposed members include:
   + Yang Lei
   + Ali Sheikh
   + Chris Bailey
+  + Yosuke Furukawa
   + + reach out to contacts at Payal, Yahoo, Netflix who might be interested
   + + other interested parties from Node.js and io.js communities
